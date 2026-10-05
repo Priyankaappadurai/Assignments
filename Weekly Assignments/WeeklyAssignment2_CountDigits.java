@@ -12,8 +12,9 @@ public class WeeklyAssignment2_CountDigits {
     		int num = 987654;
 	        int count = 0;
 
-	        for (; num != 0; num = num / 10)
+	        for (; num >0;)
 	        {
+	           num = num / 10;
 	            count++;
 	        }
 

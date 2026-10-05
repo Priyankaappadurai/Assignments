@@ -8,15 +8,15 @@ public class WeeklyAssignment2_ArmstrongNumber {
 		/*Write a Java program to check whether
 		 a number is an Armstrong number using loops. */
 		
-		 int num = 153
-				 ;
+		 int num = 153;
 	     int original = num;
 	     int sum = 0;
 
-	        for (; num != 0; num = num / 10)
+	        for (;num> 0;)
 	        {
-	            int digit = num % 10;
-	            sum = sum + (digit * digit * digit);
+	            int lastdigit = num % 10;
+	            num = num / 10;
+	            sum = sum + (lastdigit* lastdigit * lastdigit);
 	        }
 
 	        if (original == sum)
