@@ -1,6 +1,6 @@
 package dailyassignments;
 
-public class DailyAssesment2_OddorEven {
+public class DailyAssignment2_OddorEven_using_If {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
 package dailyassignments;
 
-public class Dailyassesment2_PositiveorNegative {
+public class DailyAssignment2_PositiveorNegative_using_ifelse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

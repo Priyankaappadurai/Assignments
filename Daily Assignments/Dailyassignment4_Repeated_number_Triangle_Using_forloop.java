@@ -1,6 +1,6 @@
 package dailyassignments;
 
-public class Daltassignment4_Repeated_number_Triangle {
+public class Dailyassignment4_Repeated_number_Triangle_Using_forloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
