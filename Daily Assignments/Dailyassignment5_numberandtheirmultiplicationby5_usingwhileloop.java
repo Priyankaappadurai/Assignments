@@ -1,6 +1,6 @@
 package dailyassignments;
 
-public class Dailyassignment5_numberandtheirmultiplicationby5 {
+public class Dailyassignment5_numberandtheirmultiplicationby5_usingwhileloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
