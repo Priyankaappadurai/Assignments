@@ -1,0 +1,29 @@
+package dailyassignments;
+
+public class Dailyassignment5_numberandtheircubes_Usingwhileloop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*1. Print Numbers and Their Cubes
+		Take a number N and print each number from 1 to N along with its cube.
+		Sample Input: N = 5
+		Output:
+		1 â†’ 1
+		2 â†’ 8
+		3 â†’ 27
+		4 â†’ 64
+		5 â†’ 125  */
+		
+		int num = 1;
+		while(num<=5)
+		{
+		 System.out.println("Cube of "+ num  + " is: " + (num*num*num));
+		   num++;
+		}
+		
+		
+
+	}
+
+}

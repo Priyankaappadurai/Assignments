@@ -1,0 +1,29 @@
+package dailyassignments;
+
+public class Dailyassignment5_numberandtheirmultiplicationby5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/* Print Numbers and Their Multiplication by 5
+Take a number N and print each number from 1 to N along with its value after multiplying it by 5.
+Sample Input: N = 5
+Output:
+1 â†’ 5
+2 â†’ 10
+3 â†’ 15
+4 â†’ 20
+5 â†’ 25 
+
+*/
+		int num = 1;
+		while(num<=5)
+		{
+		 System.out.println(num + " " + "multiplication by 5 is " + (num*5));
+		   num++;
+		}
+  
+		
+	}
+
+}
