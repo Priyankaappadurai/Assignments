@@ -1,6 +1,6 @@
 package weeklyassignments;
 
-public class Weeklyassignment3_Findthecommentelement {
+public class Weeklyassignment3_Findthecommonelement {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
